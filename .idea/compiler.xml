@@ -6,11 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="zsj-third-service (1)" />
+      </profile>
+      <profile name="Annotation profile for zsj-third-service" enabled="true">
+        <sourceOutputDir name="../../../代码/zsj_third_service/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../代码/zsj_third_service/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
         <module name="zsj-third-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="zsj-third-service" target="1.8" />
+      <module name="zsj-third-service (1)" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
