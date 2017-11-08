@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/zsj.iml" filepath="$PROJECT_DIR$/zsj.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../zsj-third-service.iml" filepath="$PROJECT_DIR$/../zsj-third-service.iml" />
+      <module fileurl="file://E:/代码/zsj_third_service/zsj-third-service.iml" filepath="E:/代码/zsj_third_service/zsj-third-service.iml" />
+      <module fileurl="file://E:\zsj_git\zsj-third-service.iml" filepath="E:\zsj_git\zsj-third-service.iml" />
     </modules>
   </component>
 </project>
